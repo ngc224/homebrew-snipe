@@ -1,6 +1,6 @@
 require "formula"
 
-class snipe < Formula
+class Snipe < Formula
   homepage "https://github.com/ngc224/snipe/"
   url "https://pypi.python.org/packages/source/t/snipe/snipe-0.0.2.tar.gz"
   sha1 "5045c91eadb69673e35c3cc016d97e277087c5c4"
