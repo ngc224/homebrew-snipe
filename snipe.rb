@@ -41,6 +41,6 @@ class snipe < Formula
   end
 
   test do
-    system "#{bin}/tover", "-v"
+    system "#{bin}/snipe", "-v"
   end
 end
