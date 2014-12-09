@@ -2,8 +2,8 @@ require "formula"
 
 class Snipe < Formula
   homepage "https://github.com/ngc224/snipe/"
-  url "https://pypi.python.org/packages/source/s/snipe/snipe-0.0.2.tar.gz"
-  sha1 "5045c91eadb69673e35c3cc016d97e277087c5c4"
+  url "https://pypi.python.org/packages/source/s/snipe/snipe-0.0.3.tar.gz"
+  sha1 "6e396177253985d67f789df2306fb3f092e2c809"
 
   resource "evernote" do
     url "https://pypi.python.org/packages/source/e/evernote/evernote-1.25.0.tar.gz"
